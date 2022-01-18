@@ -3,7 +3,7 @@
 Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer 💻 and Mechanical Engineer ⚙ . I'm a fresher looking for opportunity to utilize my knowledge in AI And ML field for the growth of company and myself.
 - I want to be a AI engineer and become a expert in this field because i don't like to be average person.
 - I like learning new thing whether it is related to Computer field or Mechanical field. because i believe that if i combine these field then it will create interesting results 💥
-- I love to create new things, design new things, work on the project especially difficult one.
+- I love to create new things, design new things, work on the challenging project.
 
 
 [Linkedin]: https://www.linkedin.com/in/piyushmahajan98
