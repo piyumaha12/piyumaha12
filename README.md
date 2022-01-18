@@ -11,7 +11,21 @@ Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer 💻 and Mechani
 - Building ML-DL models.
 - Designing (Mechanical) 🛠.
 - Research 🚀.
-- Mathematics .
+- Mathematics.
+
+#### Libraries I have used:
+1. Sklearn.
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Plotly
+6. Numpy and Scipy
+7. TensorFlow
+8. Pytorch
+9. NLTK, Spacy and Gensim
+10. Statsmodels
+11. imblearn
+And others related to that project
 
 [Linkedin]: https://www.linkedin.com/in/piyushmahajan98
 <!--
