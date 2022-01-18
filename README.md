@@ -29,6 +29,14 @@ Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer 💻 and Mechani
 11. imblearn
 And others related to that project
 
+#### Software i used (Not related to Data Science field):
+1. Fusion 360
+2. Inventor
+3. Ansys
+4. Eagle
+5. Autocad
+6. Catia
+
 #### The fields makes me more curious and Restless (or i am interested in) 😅:
 1. Robotics.
 2. AI
