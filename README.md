@@ -5,6 +5,8 @@ Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer 💻 and Mechani
 - I like learning new thing whether it is related to Computer field or Mechanical field. because i believe that if i combine these field then it will create interesting results 💥
 - I love to create new things, design new things, work on the challenging project.
 
+#### I am good in:
+- Python
 
 [Linkedin]: https://www.linkedin.com/in/piyushmahajan98
 <!--
