@@ -6,7 +6,12 @@ Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer 💻 and Mechani
 - I love to create new things, design new things, work on the challenging project.
 
 #### I am good in:
-- Python
+- Python 🐍.
+- Data analysis.
+- Building ML-DL models.
+- Designing (Mechanical) 🛠.
+- Research 🚀.
+- Mathematics .
 
 [Linkedin]: https://www.linkedin.com/in/piyushmahajan98
 <!--
