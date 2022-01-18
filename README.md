@@ -12,6 +12,8 @@ Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer 💻 and Mechani
 - Designing (Mechanical) 🛠.
 - Research 🚀.
 - Mathematics.
+- Calculations
+- Learning 
 
 #### Libraries I have used:
 1. Sklearn.
