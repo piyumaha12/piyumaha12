@@ -1,6 +1,9 @@
-## Piyush Mahajan -> @piyumaha12
+### Piyush Mahajan [<img align = 'right' width = '26px' height = '26px' src = "https://user-images.githubusercontent.com/71897685/149906234-c0f1587b-49e5-4cbf-9034-a00f59ae2cf2.png" />][Linkedin]
 
-[<img width = '26px' height = '26px' src = "https://user-images.githubusercontent.com/71897685/149906234-c0f1587b-49e5-4cbf-9034-a00f59ae2cf2.png" />][Linkedin]
+Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer  and Mechanical Engineer ⚙ . I'm a fresher looking for opportunity to utilize my knowledge in AI And ML field for the growth of company and myself.
+- I want to be a AI engineer and become a beast in this field.
+- I love to learn new thing whether it is related to Computer field or Mechanical field. because i believe that if i combine these field then it will create new power 💥
+
 
 [Linkedin]: https://www.linkedin.com/in/piyushmahajan98
 <!--
