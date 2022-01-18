@@ -29,18 +29,12 @@ Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer 💻 and Mechani
 11. imblearn
 And others related to that project
 
+#### The fields makes me more curious and Restless (or i am interested in) 😅:
+1. Robotics.
+2. AI
+3. Aerospace and Defence.
+4. Neurology and Genetics.
+
+
+
 [Linkedin]: https://www.linkedin.com/in/piyushmahajan98
-<!--
-**piyumaha12/piyumaha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
