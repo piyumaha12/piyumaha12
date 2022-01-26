@@ -1,4 +1,7 @@
-###  Piyush Mahajan [<img align = 'right' width = '26px' height = '26px' src = "https://user-images.githubusercontent.com/71897685/149906234-c0f1587b-49e5-4cbf-9034-a00f59ae2cf2.png" />][Linkedin]
+###  Piyush Mahajan 
+![gmail-email-logo-g-suite-google-gmail](https://user-images.githubusercontent.com/71897685/151105208-04e4fcf0-03b9-4829-93dd-d6207b2ac772.jpg)
+
+[<img align = 'right' width = '26px' height = '26px' src = "https://user-images.githubusercontent.com/71897685/149906234-c0f1587b-49e5-4cbf-9034-a00f59ae2cf2.png" />][Linkedin]
 
 Hi, I'm Piyush mahajan - a Data scientist 📈📊, ML engineer 💻 and Mechanical Engineer ⚙ . I'm a fresher looking for opportunity to utilize my knowledge in AI And ML field for the growth of company and myself.
 - I want to be a AI engineer and become a expert in this field because i don't like to be average person.
@@ -46,3 +49,4 @@ And others related to that project
 
 
 [Linkedin]: https://www.linkedin.com/in/piyushmahajan98
+[Email]: piyumaha12@gmail.com
